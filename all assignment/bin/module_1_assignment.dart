@@ -7,6 +7,4 @@ void main(){
       "Multiplication: $a * $b = ${a * b}\n" +
       "Division: $a / $b = ${a / b}\n" +
       "Modulus: $a % $b = ${a % b}");
-
-
 }
